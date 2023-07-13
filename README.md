@@ -1,0 +1,2 @@
+# sweetalert-datepicker
+Dans le développement d'applications web, il est souvent nécessaire d'ajouter des fonctionnalités de sélection de date et d'heure pour faciliter les interactions avec les utilisateurs. Dans cet article, nous allons vous montrer comment intégrer un sélecteur de date et d'heure interactif dans votre application en utilisant [jQuery UI](https://jqueryui.com/) et [SweetAlert](https://sweetalert.js.org/). Nous vous guiderons à travers les étapes nécessaires et vous fournirons un exemple de code pour faciliter la mise en œuvre.
